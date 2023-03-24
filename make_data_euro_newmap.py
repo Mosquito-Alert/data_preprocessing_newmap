@@ -484,6 +484,7 @@ class_translation_table = {
     'albopictus-cretinus':'albopictus_cretinus',
     'not-sure': 'not_sure',
     'unclassified': 'unclassified',
+    'off-topic': 'unclassified',
     'culex-sp': 'culex',
     'culex-pipiens': 'culex',
     'conflict': 'conflict',
