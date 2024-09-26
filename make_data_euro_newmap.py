@@ -1025,6 +1025,7 @@ update_report_ids(cursor)
 # """)
 
 cursor.execute("""grant select on map_aux_reports_newmap to epidata;""")
+cursor.execute("""grant select on map_aux_reports_newmap to culex;""")
 
 conn.commit()
 
